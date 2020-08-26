@@ -1,6 +1,6 @@
-# corona
+# COVID_19
 
-A new Flutter project.
+Coronavirus tracker app
 
 ## Getting Started
 
